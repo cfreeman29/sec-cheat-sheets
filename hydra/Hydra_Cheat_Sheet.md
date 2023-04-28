@@ -1,6 +1,6 @@
 
 
-# Hydra Cheat Sheet GUI
+# Hydra Cheat Sheet
 
 ##### GUI
 `xhydra`
